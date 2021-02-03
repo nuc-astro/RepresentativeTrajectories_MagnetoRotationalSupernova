@@ -1,5 +1,5 @@
 # Representative Trajectories of a magneto-rotational supernova
-Representative trajectories for the MR-SN model 35OC-Rs (***Obergaulinger & Aloy, MNRAS, 469, L43, 2017***) and their nucleosynthesis (***Reichert M., Obergaulinger M., Eichler M., Aloy M. A., Arcones A., MNRAS, 501, 5733, 2021***).
+Representative trajectories for the MR-SN model 35OC-Rs (***Obergaulinger & Aloy, MNRAS, 469, L43, 2017***) and their nucleosynthesis (***Reichert et al., MNRAS, 501, 5733, 2021***).
 
 If you use the trajectories (tracer_x.dat) or nucleosynthesis output (finab.dat), please cite both papers:
 - Obergaulinger & Aloy, MNRAS, 469, L43 (2017)
